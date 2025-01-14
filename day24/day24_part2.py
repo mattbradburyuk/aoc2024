@@ -104,7 +104,6 @@ for a in range(1,45):
     carry = adder.cn
     adders.append(adder)
 
-
 pass
 
 swapped_gates = ['z06', 'fhc', 'z11', 'qhj', 'ggt', 'mwh', 'z35', 'hqk']
